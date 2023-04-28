@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356px" height="725px" viewBox="0 0 356 725"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="width: 100%; height: 100%; background: transparent;">
+  <defs>
+    <path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" d="M 5,-5 L 0,0 L 5,5 Z" fill-opacity="1"
+      stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+      stroke-miterlimit="10" id="ygc24_0" />
+    <linearGradient id="e3966d73-60ca-43a9-b25e-56cb58e09144" x1="1" y1="0" x2="0" y2="0">
+      <stop stop-color="#feb791" offset="0" />
+      <stop stop-color="#feb791" offset="1" />
+    </linearGradient>
+    <linearGradient id="d51248ab-a33d-4a6b-8b02-53236d8d249b" x1="1" y1="0" x2="0" y2="0">
+      <stop stop-color="#feb791" offset="0" />
+      <stop stop-color="#feb791" offset="1" />
+    </linearGradient>
+    <linearGradient id="bb73044f-18a9-490f-a2fd-226ef359903a" x1="1" y1="0" x2="0" y2="0">
+      <stop stop-color="#feb7918C" offset="0" />
+      <stop stop-color="#feb7918C" offset="1" />
+    </linearGradient>
+    <linearGradient id="0bc96a41-5ec3-42bd-ab5c-e728c09ef79a" x1="1" y1="0" x2="0" y2="0">
+      <stop stop-color="#feb791" offset="0" />
+      <stop stop-color="#feb791" offset="1" />
+    </linearGradient>
+    <linearGradient id="00631767-77ab-4363-9356-47249e7052ad" x1="1" y1="0" x2="0" y2="0">
+      <stop stop-color="#feb791" offset="0" />
+      <stop stop-color="#feb791" offset="1" />
+    </linearGradient>
+  </defs>
+  <g style="pointer-events:visiblePainted" transform="translate(-10 0)" image-rendering="auto"
+    shape-rendering="auto">
+    <g>
+      <path fill="none" stroke="rgb(0,0,0)"
+        d="M 289,400.00000000000006 L 289,402.50000000000006 Q 289,410.00000000000006 296.5,410.00000000000006 L 316,410.00000000000006 Q 323.5,410.00000000000006 323.5,417.50000000000006 L 323.5,590 Q 323.5,597.5 316,597.5 L 280.9375,597.5 Q 273.4375,597.5 273.4375,605 L 273.4375,630"
+        stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+        stroke-miterlimit="10" />
+      <use xlink:href="#ygc24_0" transform="matrix(0 -1 1 0 273.4375 634.2928932188134)"
+        style="pointer-events: none;" />
+    </g>
+    <g>
+      <path fill="none" stroke="rgb(0,0,0)"
+        d="M 136.75,555 L 136.75,612.5 Q 136.75,620 144.25,620 L 175.9375,620 Q 183.4375,620 183.4375,627.5 L 183.4375,630"
+        stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+        stroke-miterlimit="10" />
+      <use xlink:href="#ygc24_0" transform="matrix(0 -1 1 0 183.4375 634.2928932188134)"
+        style="pointer-events: none;" />
+    </g>
+    <g>
+      <path fill="none" stroke="rgb(0,0,0)"
+        d="M 212.875,245.00000000000003 L 212.875,305.00000000000006" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" />
+      <use xlink:href="#ygc24_0" transform="matrix(0 -1 1 0 212.875 309.2928932188135)"
+        style="pointer-events: none;" />
+    </g>
+    <g>
+      <path fill="none" stroke="rgb(0,0,0)" d="M 212.875,90 L 212.875,150.00000000000003"
+        stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+        stroke-miterlimit="10" />
+      <use xlink:href="#ygc24_0" transform="matrix(0 -1 1 0 212.875 154.29289321881348)"
+        style="pointer-events: none;" />
+    </g>
+    <g>
+      <path fill="none" stroke="rgb(0,0,0)"
+        d="M 136.75,400.00000000000006 L 136.75,460.00000000000006" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" />
+      <use xlink:href="#ygc24_0" transform="matrix(0 -1 1 0 136.75 464.2928932188135)"
+        style="pointer-events: none;" />
+    </g>
+    <g shape-name="Rectangle" natural-id="LE0008">
+      <rect fill="url(#e3966d73-60ca-43a9-b25e-56cb58e09144)" stroke="rgb(0,0,0)" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10"
+        fill-opacity="1" x="138.4375" y="635" width="180" height="90" />
+    </g>
+    <g shape-name="Rectangle" natural-id="LE3216">
+      <rect fill="url(#d51248ab-a33d-4a6b-8b02-53236d8d249b)" stroke="rgb(0,0,0)" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10"
+        fill-opacity="1" x="60.625" y="310.00000000000006" width="304.5" height="90" />
+    </g>
+    <g shape-name="EllipseInRectangle" natural-id="LE3218">
+      <rect fill="url(#bb73044f-18a9-490f-a2fd-226ef359903a)" stroke="rgb(0,0,0)" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10"
+        fill-opacity="1" x="66.625" y="155.00000000000003" width="292.5" height="90" />
+      <ellipse fill="rgb(0,0,0)" fill-opacity="0" stroke="rgb(0,0,0)" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10"
+        cx="212.875" ry="45" cy="200" rx="146.25" />
+    </g>
+    <g shape-name="Rectangle" natural-id="LE6918">
+      <rect fill="url(#0bc96a41-5ec3-42bd-ab5c-e728c09ef79a)" stroke="rgb(0,0,0)" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10"
+        fill-opacity="1" x="10" y="465.00000000000006" width="253.5" height="90" />
+    </g>
+    <g shape-name="Rectangle" natural-id="LX0230">
+      <rect fill="url(#00631767-77ab-4363-9356-47249e7052ad)" stroke="rgb(0,0,0)" stroke-opacity="1"
+        stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10"
+        fill-opacity="1" x="62.875" y="0" width="300" height="90" />
+    </g>
+    <g transform="translate(283.5 497.5000000000001)" effective-ownership="35.104007%" from="LE3216"
+      to="LE0008">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" dy="0.9166666666666666em" transform="translate(6.302734375 10.5)"
+        style="display: block;">35.104007%</text>
+    </g>
+    <g transform="translate(96.75 560.4411764705882)" effective-ownership="12.666454%" from="LE6918"
+      to="LE0008">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" dy="0.9166666666666666em" transform="translate(6.302734375 10.5)"
+        style="display: block;">12.666454%</text>
+    </g>
+    <g transform="translate(172.875 259.3750000000001)" effective-ownership="100%" from="LE3218"
+      to="LE3216">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" dy="0.9166666666666666em" transform="translate(24.654296875 10.5)"
+        style="display: block;">100%</text>
+    </g>
+    <g transform="translate(172.875 104.37499999999997)" effective-ownership="100%" from="LX0230"
+      to="LE3218">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" dy="0.9166666666666666em" transform="translate(24.654296875 10.5)"
+        style="display: block;">100%</text>
+    </g>
+    <g transform="translate(96.75 414.37500000000006)" effective-ownership="100%" from="LE3216"
+      to="LE6918">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" dy="0.9166666666666666em" transform="translate(24.654296875 10.5)"
+        style="display: block;">100%</text>
+    </g>
+    <g transform="translate(138.4375 650)">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1"
+        transform="translate(90 0)">
+        <tspan dy="0.9166666666666666em" x="0">LE0008</tspan>
+        <tspan dy="1.5em" x="0">Rich's By the Sea</tspan>
+      </text>
+    </g>
+    <g transform="translate(60.625 325.00000000000006)">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1"
+        transform="translate(152.25 0)">
+        <tspan dy="0.9166666666666666em" x="0">LE3216</tspan>
+        <tspan dy="1.5em" x="0" xml:space="preserve">The Company   3216 Deckow-Windler</tspan>
+      </text>
+    </g>
+    <g transform="translate(66.625 170.00000000000003)">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1"
+        transform="translate(146.25 0)">
+        <tspan dy="0.9166666666666666em" x="0">LE3218</tspan>
+        <tspan dy="1.5em" x="0" xml:space="preserve">The Company   3218 Littel-Bashirian</tspan>
+      </text>
+    </g>
+    <g transform="translate(10 480)">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1"
+        transform="translate(126.75 0)">
+        <tspan dy="0.9166666666666666em" x="0">LE6918</tspan>
+        <tspan dy="1.5em" x="0" xml:space="preserve">The Company   6918 Nader Ltd</tspan>
+      </text>
+    </g>
+    <g transform="translate(62.875 15)">
+      <text font-family="'Arial'" font-size="12px" font-style="normal" font-weight="normal"
+        text-decoration="none" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1"
+        transform="translate(150 0)">
+        <tspan dy="0.9166666666666666em" x="0">LX0230</tspan>
+        <tspan dy="1.5em" x="0" xml:space="preserve">The Company   20229 Tillman-Ernser</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
